@@ -1,0 +1,5 @@
+export const GET_ALL_USER = '@users/GET_ALL_USER'
+export const GET_ALL_POST = '@users/GET_ALL_POST'
+export const GET_COMMENT = '@users/GET_COMMENT'
+export const GET_ALL_ALBUMS = '@users/GET_ALL_ALBUMS'
+export const GET_PHOTOS = '@users/GET_PHOTOS'
